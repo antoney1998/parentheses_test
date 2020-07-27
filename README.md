@@ -7,4 +7,3 @@ code to write a code* that has the expression containing n pair of parentheses. 
 - parser stack overflow
 - MemoryError
 
-In the online compilers the sweet spot till it works fine seem to be ~~pair count 92....Nope 96~~...
